@@ -2,7 +2,6 @@ package asciit
 
 import (
 	"embed"
-	"fmt"
 	"strconv"
 	"strings"
 )
